@@ -5,6 +5,3 @@ Desafio sobre  Git/Github
 [Sintaxe Basica Markdown](https://www.Markdownguide.org/basic-syntax/)
 
 CERTIFICADOS 
-
-file:///D:/Projetos/screencapture-chrome-extension-fdpohaocaechififmbbbbbknoalclacl-capture-html-2022-02-16-01_07_13.pdf
-
